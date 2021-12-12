@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="D0037D_Assignment3_Petter_vs.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
